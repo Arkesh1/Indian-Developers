@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Games - Indian Developers</title>
+	<atom:link href="http://indiandevelopers.ml/game/feed/" rel="self" type="application/rss+xml" />
+	<link>http://indiandevelopers.ml</link>
+	<description>We are Indian Game Developers</description>
+	<lastBuildDate>Thu, 13 Jan 2022 11:53:21 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.3</generator>
+
+<image>
+	<url>http://indiandevelopers.ml/wp-content/uploads/2022/01/photo12-100x100.jpg</url>
+	<title>Games - Indian Developers</title>
+	<link>http://indiandevelopers.ml</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>StoryLINE &#8211; SpeedRun Challenge</title>
+		<link>http://indiandevelopers.ml/game/storyline-speedrun-challenge/</link>
+					<comments>http://indiandevelopers.ml/game/storyline-speedrun-challenge/#respond</comments>
+		
+		<dc:creator><![CDATA[Arkesh]]></dc:creator>
+		<pubDate>Thu, 13 Jan 2022 11:53:21 +0000</pubDate>
+				<guid isPermaLink="false">http://indiandevelopers.ml/?post_type=game&#038;p=2094</guid>
+
+					<description><![CDATA[<p>StoryLINE is a story-based platformer game. You have to draw lines and reach the end. Also, it has SpeedRun Mode. Take part in SpeedRun Challenge and Win up to Rs 50k. All the Best! #Proudly Made in India</p>
+<p>The post <a href="http://indiandevelopers.ml/game/storyline-speedrun-challenge/">StoryLINE – SpeedRun Challenge</a> first appeared on <a href="http://indiandevelopers.ml">Indian Developers</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>StoryLINE is a story-based platformer game.<br />
+You have to draw lines and reach the end.<br />
+Also, it has SpeedRun Mode.</p>
+<p>Take part in SpeedRun Challenge and Win up to Rs 50k.<br />
+All the Best!<br />
+#Proudly Made in India</p><p>The post <a href="http://indiandevelopers.ml/game/storyline-speedrun-challenge/">StoryLINE – SpeedRun Challenge</a> first appeared on <a href="http://indiandevelopers.ml">Indian Developers</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>http://indiandevelopers.ml/game/storyline-speedrun-challenge/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dark-Horror Game</title>
+		<link>http://indiandevelopers.ml/game/dark-horror-game/</link>
+					<comments>http://indiandevelopers.ml/game/dark-horror-game/#respond</comments>
+		
+		<dc:creator><![CDATA[Arkesh]]></dc:creator>
+		<pubDate>Thu, 13 Jan 2022 10:40:04 +0000</pubDate>
+				<guid isPermaLink="false">http://indiandevelopers.ml/?post_type=game&#038;p=2080</guid>
+
+					<description><![CDATA[<p>A boy is trapped in a haunted mansion and you have to helped him to escape from the mansion. For escape , You have to collect items and solved the mystery to defeat enemy . All the Best! Note: It may lag in less than 4 GB ram. #Proudly Made in India</p>
+<p>The post <a href="http://indiandevelopers.ml/game/dark-horror-game/">Dark-Horror Game</a> first appeared on <a href="http://indiandevelopers.ml">Indian Developers</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>A boy is trapped in a haunted mansion and<br />
+you have to helped him to escape from the mansion.<br />
+For escape , You have to collect items and solved the mystery to defeat enemy .</p>
+<p>All the Best!</p>
+<p>Note: It may lag in less than 4 GB ram.</p>
+<p>#Proudly Made in India</p><p>The post <a href="http://indiandevelopers.ml/game/dark-horror-game/">Dark-Horror Game</a> first appeared on <a href="http://indiandevelopers.ml">Indian Developers</a>.</p>]]></content:encoded>
+					
+					<wfw:commentRss>http://indiandevelopers.ml/game/dark-horror-game/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

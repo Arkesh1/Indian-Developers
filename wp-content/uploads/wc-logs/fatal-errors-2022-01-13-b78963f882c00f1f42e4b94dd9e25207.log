@@ -1,0 +1,276 @@
+2022-01-13T11:12:25+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T11:27:08+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T11:27:24+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T12:34:44+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T13:13:31+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T13:14:01+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T13:14:15+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T13:23:49+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T13:24:04+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T14:42:29+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T14:43:53+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T14:45:42+00:00 CRITICAL Uncaught Error: Failed opening required 'E:\wamp64\www\IndianDevelopersSite/wp-admin/includes/template.php' (include_path='.;C:\php\pear') in E:\wamp64\www\IndianDevelopersSite\wp-content\plugins\wpforms-lite\src\Integrations\WPorg\Translations.php:37
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\plugins\wpforms-lite\src\Integrations\Loader.php(68): WPForms\Integrations\WPorg\Translations->allow_load()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-content\plugins\wpforms-lite\src\Integrations\Loader.php(54): WPForms\Integrations\Loader->load_integration(Object(WPForms\Integrations\WPorg\Translations))
+#2 E:\wamp64\www\IndianDevelopersSite\wp-content\plugins\wpforms-lite\src\Integrations\Loader.php(22): WPForms\Integrations\Loader->__construct()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WPForms\Integrations\Loader::get_instance('')
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(Object(WPForms\Providers\Loader), Array)
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#6 E:\wamp64\www\IndianDevelopersSite\wp-content\plugins\wpforms-lite\src\WPForms.php(277): do_action('wpforms_loaded')
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WPForms\WPForms->objects('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-settings.php(441): do_action('plugins_loaded')
+#11 E:\wamp64\www\IndianDevelopersSite\wp-config.php(96): require_once('E:\\wamp64\\www\\I...')
+#12 E:\wamp64\www\IndianDevelopersSite\wp-load.php(50): require_once('E:\\wamp64\\www\\I...')
+#13 E:\wamp64\www\IndianDevelopersSite\wp-admin\admin.php(34): require_once('E:\\wamp64\\www\\I...')
+#14 E:\wamp64\www\IndianDevelopersSite\wp-admin\post.php(12): require_once('E:\\wamp64\\www\\I...')
+#15 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\plugins\wpforms-lite\src\Integrations\WPorg\Translations.php on line 37
+
+2022-01-13T14:46:28+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T15:26:43+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T15:28:23+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T15:28:43+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
+2022-01-13T15:29:00+00:00 CRITICAL Uncaught Error: Undefined constant "CLOUX_THEME_VERSION" in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php:167
+Stack trace:
+#0 E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php(126): Cloux_Customize_Google_Fonts_Control->cloux_get_fonts()
+#1 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(429): Cloux_Customize_Google_Fonts_Control->render_content()
+#2 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(416): WP_Customize_Control->render()
+#3 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(380): WP_Customize_Control->maybe_render()
+#4 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(318): WP_Customize_Control->get_content()
+#5 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-control.php(336): WP_Customize_Control->to_json()
+#6 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-customize-manager.php(4971): WP_Customize_Control->json()
+#7 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(303): WP_Customize_Manager->customize_pane_settings('')
+#8 E:\wamp64\www\IndianDevelopersSite\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#9 E:\wamp64\www\IndianDevelopersSite\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#10 E:\wamp64\www\IndianDevelopersSite\wp-admin\customize.php(293): do_action('customize_contr...')
+#11 {main}
+  thrown in E:\wamp64\www\IndianDevelopersSite\wp-content\themes\cloux\include\customize\types.php on line 167
+
